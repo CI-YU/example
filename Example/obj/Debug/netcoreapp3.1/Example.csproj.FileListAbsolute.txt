@@ -65,3 +65,5 @@ C:\智擎科技\Git\Example\Example\obj\Debug\netcoreapp3.1\Example.csproj.CopyC
 C:\智擎科技\Git\Example\Example\obj\Debug\netcoreapp3.1\Example.dll
 C:\智擎科技\Git\Example\Example\obj\Debug\netcoreapp3.1\Example.pdb
 C:\智擎科技\Git\Example\Example\obj\Debug\netcoreapp3.1\Example.genruntimeconfig.cache
+C:\智擎科技\Git\Example\Example\bin\Debug\netcoreapp3.1\NLog.config
+C:\智擎科技\Git\Example\Example\obj\Debug\netcoreapp3.1\Razor\Views\Test\Index.cshtml.g.cs
