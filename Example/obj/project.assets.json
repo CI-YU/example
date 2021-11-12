@@ -2308,11 +2308,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Sample\\Example\\Example\\Example\\Example.csproj",
+      "projectUniqueName": "C:\\智擎科技\\Git\\Example\\Example\\Example.csproj",
       "projectName": "Example",
-      "projectPath": "D:\\Sample\\Example\\Example\\Example\\Example.csproj",
+      "projectPath": "C:\\智擎科技\\Git\\Example\\Example\\Example.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "D:\\Sample\\Example\\Example\\Example\\obj\\",
+      "outputPath": "C:\\智擎科技\\Git\\Example\\Example\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -2383,7 +2383,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.401\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100\\RuntimeIdentifierGraph.json"
       }
     }
   }
