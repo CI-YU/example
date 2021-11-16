@@ -12,11 +12,11 @@ indent_style = space
 #Formatting - new line options
 
 #place catch statements on a new line
-csharp_new_line_before_catch =true
+csharp_new_line_before_catch =false
 #place else statements on a new line
-csharp_new_line_before_else =true
+csharp_new_line_before_else =false
 #require finally statements to be on a new line after the closing brace
-csharp_new_line_before_finally =true
+csharp_new_line_before_finally =false
 
 #Formatting - organize using options
 
@@ -107,8 +107,8 @@ csharp_indent_switch_labels=true
 csharp_space_after_semicolon_in_for_statement=true
 csharp_space_after_comma=true
 csharp_new_line_between_query_expression_clauses=true
-csharp_new_line_before_members_in_anonymous_types=true
-csharp_new_line_before_members_in_object_initializers=true
+csharp_new_line_before_members_in_anonymous_types=false
+csharp_new_line_before_members_in_object_initializers=false
 csharp_using_directive_placement=inside_namespace:silent
 csharp_style_conditional_delegate_call=true:suggestion
 csharp_prefer_static_local_function=true:suggestion
@@ -132,6 +132,7 @@ csharp_style_inlined_variable_declaration=false:suggestion
 csharp_style_deconstructed_variable_declaration=true:suggestion
 csharp_style_unused_value_assignment_preference=discard_variable:suggestion
 csharp_style_unused_value_expression_statement_preference=discard_variable:silent
+csharp_new_line_before_open_brace=none
 
 [*.{cs,vb}]
 tab_width=2
